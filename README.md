@@ -3,6 +3,19 @@
 Full stack app with login, registration, and role-based access control. Users get either USER or ADMIN role and see different content based on that.
 
 Backend is Spring Boot with JWT auth, frontend is React + TypeScript with Vite, and the database is PostgreSQL running in Docker.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15607f3c-2363-4dfd-b492-2e0d421eea8c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/96b74425-214e-4705-912b-319905392986" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24eb0689-4d1a-4c39-8e65-055c444b05e3" width="45%" />
+  <img src="https://github.com/user-attachments/assets/30e9158d-821c-4529-991f-8944a49b53a1" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c2bee55-98ec-4792-b56c-a2120588e6a5" width="45%" />
+</p>
 
 ---
 
